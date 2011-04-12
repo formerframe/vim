@@ -1,0 +1,1 @@
+loremipsum.vba: call delete('/home/monster/.vim/autoload/loremipsum.vim')|call delete('/home/monster/.vim/autoload/loremipsum.txt')|call delete('/home/monster/.vim/plugin/loremipsum.vim')|call delete('/home/monster/.vim/doc/loremipsum.txt')
